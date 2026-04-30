@@ -1,10 +1,10 @@
 # Privacy Policy
 
-**App:** Dosion — Supplement Tracker
-**Developer / Data Controller:** Kirill Sukhomlin
-**Contact:** dosion@bioaionics.com
-**Effective date:** 30.04.2026
-**Last updated:** 30.04.2026
+**App:** Dosion — Supplement Tracker  
+**Developer / Data Controller:** Kirill Sukhomlin  
+**Contact:** dosion@bioaionics.com  
+**Effective date:** 30 April 2026  
+**Last updated:** 30 April 2026  
 
 ---
 
@@ -226,6 +226,5 @@ We may update this Policy from time to time. When we do, we will update the "Las
 
 ## 13. Contact
 
-**Kirill Sukhomlin**
-[Greece, EU]
+**Kirill Sukhomlin**  
 Email: **dosion@bioaionics.com**
