@@ -1,21 +1,20 @@
 # Privacy Policy
 
 **App:** Dosion — Supplement Tracker
-**Developer / Data Controller:** [Your Legal Name / Company Name]
-**Registered address:** [Street, Number, Postcode, City, Greece, European Union]
-**Contact:** [your@email.com]
-**Effective date:** [DD Month YYYY]
-**Last updated:** [DD Month YYYY]
+**Developer / Data Controller:** Kirill Sukhomlin
+**Contact:** dosion@bioaionics.com
+**Effective date:** 30.04.2026
+**Last updated:** 30.04.2026
 
 ---
 
 ## 1. Who we are
 
-Dosion ("the App") is developed and operated by [Your Legal Name / Company Name], established in Greece, European Union ("we", "us", "our").
+Dosion ("the App") is developed and operated by Kirill Sukhomlin, established in Greece, European Union ("we", "us", "our").
 
 For the purposes of Regulation (EU) 2016/679 (GDPR) and Greek Law 4624/2019, we act as the **data controller** for personal data processed through the App.
 
-We are a small independent developer and are not legally required to appoint a Data Protection Officer. For all privacy-related questions, contact us at: **[your@email.com]**.
+We are a small independent developer and are not legally required to appoint a Data Protection Officer. For all privacy-related questions, contact us at: **dosion@bioaionics.com**.
 
 ---
 
@@ -49,11 +48,9 @@ If you connect Apple Health, the App may **read**:
 
 - Sleep analysis
 - Workouts
-- Body mass (weight)
 - Resting heart rate
 - Heart rate variability (HRV, SDNN)
 - Active energy
-- Date of birth
 - Biological sex
 
 If you enable HealthKit write-back (Dosion Pro), the App may **write** dietary nutrient samples (vitamins, minerals, omega-3, and other mapped nutrients) to Apple Health, marked as "user entered", only after you confirm an intake as taken.
@@ -191,7 +188,7 @@ As a data subject under GDPR, you have the right to:
 - **Object** — object to processing based on legitimate interests.
 - **Withdraw consent** — withdraw consent for optional features (Apple Health, iCloud sync) at any time in iOS Settings or the App's Me tab.
 
-To exercise any right, contact us at **[your@email.com]**. We will respond within 30 days.
+To exercise any right, contact us at **[dosion@bioaionics.com]**. We will respond within 30 days.
 
 You also have the right to **lodge a complaint** with the Hellenic Data Protection Authority (HDPA):
 
@@ -229,6 +226,6 @@ We may update this Policy from time to time. When we do, we will update the "Las
 
 ## 13. Contact
 
-**[Your Legal Name / Company Name]**
-[Street, Number, Postcode, City, Greece, EU]
-Email: **[your@email.com]**
+**Kirill Sukhomlin**
+[Greece, EU]
+Email: **dosion@bioaionics.com**
