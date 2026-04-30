@@ -1,10 +1,10 @@
 # Terms of Service
 
-**App:** Dosion — Supplement Tracker
-**Developer:** Kirill Sukhomlin
-**Contact:** dosion@bioaionics.com
-**Effective date:** 30 April 2026
-**Last updated:** 30 April 2026
+**App:** Dosion — Supplement Tracker  
+**Developer:** Kirill Sukhomlin  
+**Contact:** dosion@bioaionics.com  
+**Effective date:** 30 April 2026  
+**Last updated:** 30 April 2026  
 
 ---
 
@@ -261,5 +261,5 @@ We may update these Terms from time to time. When we do, we will update the "Las
 
 ## 20. Contact
 
-**Kirill Sukhomlin**
+**Kirill Sukhomlin**  
 Email: **dosion@bioaionics.com**
