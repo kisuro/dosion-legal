@@ -1,11 +1,10 @@
 # Terms of Service
 
 **App:** Dosion — Supplement Tracker
-**Developer:** [Your Legal Name / Company Name]
-**Registered address:** [Street, Number, Postcode, City, Greece, European Union]
-**Contact:** [your@email.com]
-**Effective date:** [DD Month YYYY]
-**Last updated:** [DD Month YYYY]
+**Developer:** Kirill Sukhomlin
+**Contact:** dosion@bioaionics.com
+**Effective date:** 30 April 2026
+**Last updated:** 30 April 2026
 
 ---
 
@@ -17,7 +16,7 @@ If you do not agree to these Terms, do not use the App.
 
 **Age requirement:** You must be at least **16 years old** to use Dosion. By using the App, you confirm that you meet this requirement. If you are under 16, do not use the App.
 
-These Terms constitute a binding agreement between you and [Your Legal Name / Company Name] ("we", "us", "our"), established in Greece, European Union.
+These Terms constitute a binding agreement between you and Kirill Sukhomlin ("we", "us", "our"), established in Greece, European Union.
 
 ---
 
@@ -48,7 +47,7 @@ The App and all information it provides — including supplement data, nutrient 
 - A recommendation to start, stop, or change any supplement, medication, or health regimen.
 - A substitute for professional medical consultation.
 
-**Always consult a qualified healthcare professional before making decisions about your supplement use, nutrition, or health.** Individual needs, interactions, and risks vary. The dosage calculator included in the App includes a mandatory disclaimer and is a reference tool only; it does not account for your personal medical history.
+**Always consult a qualified healthcare professional before making decisions about your supplement use, nutrition, or health.** Individual needs, interactions, and risks vary. It does not account for your personal medical history.
 
 Supplement scanning and OCR results may be inaccurate. Always verify ingredients, dosages, and nutrient information with the original product label and a qualified professional before making health decisions.
 
@@ -130,8 +129,8 @@ The Annual plan includes a 7-day free trial for new subscribers. If you subscrib
 **Managing subscriptions:**
 After purchase, you can manage your subscription in: iOS Settings → [Your Apple ID] → Subscriptions.
 
-Privacy Policy: [link to your hosted privacy policy]
-Terms of Service: [link to your hosted terms]
+Privacy Policy: [Link](https://github.com/kisuro/dosion-legal/blob/main/privacy.md)
+Terms of Service: [Link](https://github.com/kisuro/dosion-legal/blob/main/terms.md)
 
 ### 7.4 Refunds
 
@@ -178,7 +177,7 @@ If you access Dosion through Apple TestFlight as a beta tester:
 
 ## 11. Intellectual Property
 
-The App, its design, graphics, source code, user interface, and all associated content are owned by [Your Legal Name / Company Name] and are protected by applicable intellectual property laws, including those of Greece and the European Union.
+The App, its design, graphics, source code, user interface, and all associated content are owned by Kirill Sukhomlin and are protected by applicable intellectual property laws, including those of Greece and the European Union.
 
 You are granted a limited licence to use the App as described in section 4. Nothing in these Terms transfers ownership of any intellectual property rights to you.
 
@@ -232,7 +231,7 @@ These Terms are governed by the laws of Greece and applicable European Union law
 Any dispute arising from or relating to these Terms or the App shall be subject to the exclusive jurisdiction of the courts of **[City, e.g. Thessaloníki]**, Greece, subject to your rights as a consumer under applicable EU law.
 
 **EU Online Dispute Resolution:**
-As a consumer in the EU, you may also use the European Commission's Online Dispute Resolution (ODR) platform: [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr). Our contact email for ODR purposes: **[your@email.com]**.
+As a consumer in the EU, you may also use the European Commission's Online Dispute Resolution (ODR) platform: [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr). Our contact email for ODR purposes: **dosion@bioaionics.com**.
 
 ---
 
@@ -262,6 +261,5 @@ We may update these Terms from time to time. When we do, we will update the "Las
 
 ## 20. Contact
 
-**[Your Legal Name / Company Name]**
-[Street, Number, Postcode, City, Greece, EU]
-Email: **[your@email.com]**
+**Kirill Sukhomlin**
+Email: **dosion@bioaionics.com**
