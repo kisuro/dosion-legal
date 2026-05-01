@@ -4,14 +4,14 @@
 **Developer:** Kirill Sukhomlin  
 **Contact:** [dosion@bioaionics.com](mailto:dosion@bioaionics.com)  
 **Effective date:** 30 April 2026  
-**Last updated:** 30 April 2026  
+**Last updated:** 1 May 2026  
 **Version:** 1.0
 
 ---
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using Dosion ("the App"), you agree to be bound by these Terms of Service ("Terms") and our [Privacy Policy](https://github.com/kisuro/dosion-legal/blob/main/privacy.md), which is incorporated herein by reference.
+By downloading, installing, or using Dosion ("the App"), you agree to be bound by these Terms of Service ("Terms") and our [Privacy Policy](https://dosion.bioaionics.com/privacy), which is incorporated herein by reference.
 
 If you do not agree to these Terms, do not use the App.
 
@@ -132,8 +132,8 @@ The Annual plan includes a free introductory trial for eligible new subscribers,
 **Managing subscriptions:**
 After purchase, you can manage your subscription in: iOS Settings → [Your Apple ID] → Subscriptions.
 
-Privacy Policy: [Link](https://github.com/kisuro/dosion-legal/blob/main/privacy.md)
-Terms of Service: [Link](https://github.com/kisuro/dosion-legal/blob/main/terms.md)
+Privacy Policy: [Link](https://dosion.bioaionics.com/privacy)  
+Terms of Service: [Link](https://dosion.bioaionics.com/terms)
 
 ### 7.4 Refunds
 
