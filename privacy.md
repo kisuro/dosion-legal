@@ -1,22 +1,21 @@
 # Privacy Policy
 
-**App:** Dosion — Supplement Tracker  
-**Developer / Data Controller:** Kirill Sukhomlin  
-**Contact:** [dosion@bioaionics.com](mailto:dosion@bioaionics.com)  
-**Effective date:** 30 April 2026  
-**Last updated:** 30 April 2026  
-**Version:** 1.0
-
+**App:** Dosion — Supplement Tracker
+**Developer / Data Controller:** Artem Odintsov
+**Contact:** dosion@bioaionics.com
+**Effective date:** 30 April 2026
+**Last updated:** 16 June 2026
+**Version:** 1.1
 
 ---
 
 ## 1. Who we are
 
-Dosion ("the App") is developed and operated by Kirill Sukhomlin, established in Greece, European Union ("we", "us", "our").
+Dosion ("the App") is developed and operated by Artem Odintsov, established in Berlin, Germany, European Union ("we", "us", "our").
 
-For the purposes of Regulation (EU) 2016/679 (GDPR) and Greek Law 4624/2019, we act as the **data controller** for personal data processed through the App.
+For the purposes of Regulation (EU) 2016/679 (GDPR), we act as the **data controller** for personal data processed through the App.
 
-We are a small independent developer and are not legally required to appoint a Data Protection Officer. For all privacy-related questions, contact us at: **[dosion@bioaionics.com](mailto:dosion@bioaionics.com)**.
+We are a small independent developer and are not legally required to appoint a Data Protection Officer. For all privacy-related questions, contact us at: **dosion@bioaionics.com**.
 
 ---
 
@@ -26,8 +25,8 @@ This Policy applies to personal data processed when you install and use Dosion o
 
 It does **not** cover:
 
-* Data processed by **Apple Inc.** through Sign in with Apple, App Store, Apple Health (HealthKit), iCloud, StoreKit, or TestFlight — governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
-* Third-party websites you visit through links inside the App (for example iHerb) — governed by their own policies.
+- Data processed by **Apple Inc.** through Sign in with Apple, App Store, Apple Health (HealthKit), iCloud, StoreKit, or TestFlight — governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
+- Third-party websites you visit through links inside the App (for example iHerb) — governed by their own policies.
 
 ---
 
@@ -36,7 +35,7 @@ It does **not** cover:
 ### 3.1 Data you provide directly
 
 | Category | Examples |
-| --- | --- |
+|----------|----------|
 | Account identifiers (Apple Sign-in only) | Apple user identifier, display name (if shared), email or Apple private relay address (`@privaterelay.appleid.com`) |
 | Supplement stack | Names, brands, doses, units, schedules, cycle settings, intake logs, inventory notes |
 | Wellbeing check-ins | Mood, energy, sleep, focus, stress, tags, free-text notes |
@@ -48,43 +47,43 @@ It does **not** cover:
 
 If you connect Apple Health, the App may **read**:
 
-* Sleep analysis
-* Workouts
-* Resting heart rate
-* Heart rate variability (HRV, SDNN)
-* Active energy
-* Biological sex
+- Sleep analysis
+- Workouts
+- Resting heart rate
+- Heart rate variability (HRV, SDNN)
+- Active energy
+- Biological sex
 
 If you enable HealthKit write-back (Dosion Pro), the App may **write** dietary nutrient samples (vitamins, minerals, omega-3, and other mapped nutrients) to Apple Health, marked as "user entered", only after you confirm an intake as taken.
 
 **Our HealthKit commitments:**
 
-* HealthKit data is processed entirely on-device.
-* HealthKit-derived personal characteristics (such as biological sex and the last HealthKit sync timestamp) are stored locally on your device only. They are **not** transmitted to our servers, **not** shared with any third party, and **not** synced to iCloud.
-* Raw HealthKit samples are not retained beyond the daily snapshot needed for Insights analysis.
-* You can revoke iOS-level HealthKit permission at any time in **iOS Settings → Privacy → Health → Dosion**. Inside the App (**Me → Apple Health**), you can also disconnect HealthKit at the App level, which stops the App from reading or writing HealthKit data; the iOS-level permission grant must be revoked separately in iOS Settings if you want to remove it entirely.
+- HealthKit data is processed entirely on-device.
+- HealthKit-derived personal characteristics (such as biological sex and the last HealthKit sync timestamp) are stored locally on your device only. They are **not** transmitted to our servers, **not** shared with any third party, and **not** synced to iCloud.
+- Raw HealthKit samples are not retained beyond the daily snapshot needed for Insights analysis.
+- You can revoke iOS-level HealthKit permission at any time in **iOS Settings → Privacy → Health → Dosion**. Inside the App (**Me → Apple Health**), you can also disconnect HealthKit at the App level, which stops the App from reading or writing HealthKit data; the iOS-level permission grant must be revoked separately in iOS Settings if you want to remove it entirely.
 
 ### 3.3 Device permissions
 
 | Permission | Purpose | Notes |
-| --- | --- | --- |
+|------------|---------|-------|
 | Camera | Scan supplement labels and barcodes; take a profile photo | Processed on-device; images are not uploaded |
 | Photo Library | Attach a supplement package photo when scanning is unavailable; set a profile photo | Processed on-device; images are not uploaded |
-| Notifications | Local reminders to take supplements and refill low stock | Reminder titles and bodies may include the supplement name (and brand, where available) so the notification is meaningful at a glance. Notifications are scheduled and rendered locally on your device; we do not send remote push notifications |
+| Notifications | Local reminders to take supplements and refill low stock | Reminder titles and bodies may include the supplement name (and brand, where available). Notifications are scheduled and rendered locally; we do not send remote push notifications |
 | Apple Health | As described in section 3.2 | Gated by explicit iOS permission prompt |
 
 You can revoke any permission at any time in iOS Settings → Privacy.
 
 ### 3.4 Diagnostic metadata in feedback emails
 
-When you use the in-app "Report a bug" or "Request a feature" flow, your default mail app opens with a pre-filled email containing non-personal diagnostic metadata to help us reproduce issues:
+When you use the in-app "Report a bug" or "Request a feature" flow, your default mail app opens with a pre-filled email containing non-personal diagnostic metadata:
 
-* App version and build
-* iOS version
-* Device model class
-* Authentication mode (Apple Sign-in or Guest)
-* Apple Health connection state (connected / not connected)
-* Number of supplements in your stack (count only)
+- App version and build
+- iOS version
+- Device model class
+- Authentication mode (Apple Sign-in or Guest)
+- Apple Health connection state (connected / not connected)
+- Number of supplements in your stack (count only)
 
 This metadata does **not** include the names or details of your supplements, the contents of your intake logs or check-ins, your HealthKit values, your Apple ID, or your contact information.
 
@@ -96,11 +95,11 @@ If you participate in Dosion's beta via Apple TestFlight, Apple collects crash r
 
 ### 3.6 Data we do NOT collect
 
-* No third-party analytics or advertising SDKs
-* No advertising identifiers (IDFA)
-* No tracking across apps or websites (no ATT permission is requested)
-* No third-party crash reporting SDKs
-* No advertising or behavioural profiling
+- No third-party analytics or advertising SDKs
+- No advertising identifiers (IDFA)
+- No tracking across apps or websites (no ATT permission is requested)
+- No third-party crash reporting SDKs
+- No advertising or behavioural profiling
 
 ---
 
@@ -108,15 +107,15 @@ If you participate in Dosion's beta via Apple TestFlight, Apple collects crash r
 
 Profile avatars in Dosion work as follows:
 
-* If you set a profile photo via Edit picture, it is stored as a local JPEG file on your device and displayed from there. If you enable iCloud sync, it is also replicated as a CloudKit asset to your private CloudKit container.
-* If no photo is set, the App displays your initials generated on-device from your display name. No external service is contacted for avatar generation.
+- If you set a profile photo via Edit picture, it is stored as a local JPEG file on your device and displayed from there. If you enable iCloud sync, it is also replicated as a CloudKit asset to your private CloudKit container.
+- If no photo is set, the App displays your initials generated on-device from your display name. No external service is contacted for avatar generation.
 
 ---
 
 ## 5. Purposes and legal bases
 
 | Purpose | Personal data involved | Legal basis (GDPR Art. 6) |
-| --- | --- | --- |
+|---------|----------------------|--------------------------|
 | Provide core App functionality | Stack, intake, schedule, profile data | Art. 6(1)(b) — performance of a contract |
 | Optional Apple Health integration | HealthKit reads and writes (also Art. 9(2)(a)) | Art. 6(1)(a) — consent |
 | Optional iCloud sync | Stack, logs, profile preferences, profile photo | Art. 6(1)(a) — consent |
@@ -131,23 +130,23 @@ You may withdraw consent at any time. Withdrawal does not affect the lawfulness 
 
 ## 6. Storage and local-first architecture
 
-Dosion is **local-first**. Your data is stored in a SwiftData database on your device, with small preferences in iOS system storage, your profile photo in the App's Application Support directory, and a small App Group container shared with the Dosion home-screen widget extension (currently used to mirror your active subscription state and a minimal intake summary so the widget can render without launching the App).
+Dosion is **local-first**. Your data is stored in a SwiftData database on your device, with small preferences in iOS system storage, your profile photo in the App's Application Support directory, and a small App Group container shared with the Dosion home-screen widget extension.
 
 **What stays on-device only (always):**
 
-* HealthKit-derived characteristics (such as biological sex and last HealthKit sync timestamp)
-* Wellbeing check-ins (stored in iOS preferences storage; not part of the iCloud replication scope)
-* Local notifications schedule
-* Entitlement cache and one-time install state flags (e.g., onboarding completion, guidance completion)
-* App Group container values shared with the widget extension
-* Local feature caches (e.g., USDA food search cache used for offline reuse)
+- HealthKit-derived characteristics (such as biological sex and last HealthKit sync timestamp)
+- Wellbeing check-ins
+- Local notifications schedule
+- Entitlement cache and one-time install state flags
+- App Group container values shared with the widget extension
+- Local feature caches (e.g., USDA food search cache)
 
 **What is optionally synced through iCloud (only when you enable iCloud sync with Apple Sign-in):**
 
-* Supplements
-* Intake logs
-* Profile preferences (goal, meal times, currency, appearance)
-* Profile photo (replicated as a CloudKit asset)
+- Supplements
+- Intake logs
+- Profile preferences (goal, meal times, currency, appearance)
+- Profile photo (replicated as a CloudKit asset)
 
 CloudKit is operated by Apple Inc. Data in your CloudKit container is subject to Apple's privacy policy and is associated with your Apple ID. We have no direct access to your CloudKit container.
 
@@ -158,18 +157,16 @@ CloudKit is operated by Apple Inc. Data in your CloudKit container is subject to
 ## 7. Third-party services
 
 | Service | Operator | Purpose | Data transferred |
-| --- | --- | --- | --- |
-| Dosion Food API | Us, hosted on Cloudflare Workers | Food and nutrition search | Search query text or scanned barcode. No account identifier. Operational logs are retained for approximately 30 days for abuse prevention, then deleted. |
+|---------|----------|---------|-----------------|
+| Dosion Food API | Us, hosted on Cloudflare Workers | Food and nutrition search | Search query text or scanned barcode. No account identifier. Operational logs retained ~30 days, then deleted. |
 | USDA FoodData Central | U.S. Dept. of Agriculture | Upstream nutrition database | Called server-side from our Worker. No user data is sent. |
-| Open Food Facts | Open Food Facts (France) | Barcode enrichment fallback | The scanned barcode value only, plus a list of which response fields the App expects (no user data). |
-| NIH Dietary Supplement Label Database (DSLD) | U.S. National Institutes of Health | Barcode/UPC enrichment fallback when the supplement is in the U.S. DSLD | The scanned UPC value only. |
-| UPCItemDB | UPCitemdb.com (United States) | Generic barcode lookup fallback for products not found in DSLD or Open Food Facts | The scanned UPC value only. |
-| iHerb | iHerb LLC (United States) | Optional shopping links, opened in in-app browser | No data sent by us. iHerb may apply its own cookies and referral tracking per its privacy policy. We may earn a referral commission on qualifying purchases at no cost to you. |
+| Open Food Facts | Open Food Facts (France) | Barcode enrichment fallback | The scanned barcode value only. |
+| NIH Dietary Supplement Label Database (DSLD) | U.S. National Institutes of Health | Barcode/UPC enrichment fallback | The scanned UPC value only. |
+| UPCItemDB | UPCitemdb.com (United States) | Generic barcode lookup fallback | The scanned UPC value only. |
+| iHerb | iHerb LLC (United States) | Optional shopping links | No data sent by us. iHerb may apply its own cookies and referral tracking. We may earn a referral commission. |
 | Apple iCloud (CloudKit) | Apple Inc. | Optional sync | Data listed in section 6. |
 | Apple StoreKit | Apple Inc. | Subscription billing and entitlement | Apple-managed receipts and transaction IDs. We do not see your payment details. |
-| Apple Translation | Apple Inc. | On-device query translation for non-English food searches | Text processed on-device by the Apple Translation framework; not sent to our servers. |
-
-The barcode-fallback services (Open Food Facts, NIH DSLD, UPCItemDB) are contacted only when you actively scan or look up a supplement by barcode and the value is not found in our primary source. Each request contains the barcode value only; it does not contain your account identifier, location, or other personal data.
+| Apple Translation | Apple Inc. | On-device query translation for non-English food searches | Text processed on-device; not sent to our servers. |
 
 ### International data transfers
 
@@ -177,23 +174,19 @@ Our Food API runs on Cloudflare's global network, which may process requests in 
 
 NIH DSLD and UPCItemDB are based in the United States. When you trigger a barcode lookup, the barcode value is transmitted to those services over HTTPS.
 
-For iHerb links, iHerb LLC is established in the United States. Any data collected by iHerb when you visit their site is subject to their own privacy policy and transfer mechanisms.
-
-Apple iCloud infrastructure is subject to Apple's own transfer mechanisms documented in Apple's Privacy Policy.
-
 ---
 
 ## 8. Data retention
 
 | Data | Retention period |
-| --- | --- |
+|------|-----------------|
 | All local App data (stack, logs, check-ins, profile) | Until you delete the App or use Settings → Delete Account |
 | iCloud-synced data | Until you delete the App, use Settings → Delete Account, or remove the App's iCloud container from Apple ID settings |
 | Profile photo file (local + CloudKit asset, if synced) | Until you remove it or delete the App / account |
-| Diagnostic metadata in support emails | We retain support correspondence for as long as reasonably necessary to resolve the issue, up to 3 years |
+| Diagnostic metadata in support emails | Up to 3 years |
 | Cloudflare Worker operational logs | Approximately 30 days |
 
-When you use Settings → Delete Account, the App removes all local SwiftData records, in-App preferences, cached entitlement state, your local profile photo file, and feature caches. A small number of one-time install state flags (such as onboarding and guidance completion) are intentionally preserved so that you do not see the introductory flows again on the same device. Apple-managed data (CloudKit container, StoreKit history, Sign in with Apple association at the Apple ID level) is handled per Apple's own policies.
+When you use Settings → Delete Account, the App removes all local SwiftData records, in-App preferences, cached entitlement state, your local profile photo file, and feature caches.
 
 ---
 
@@ -201,21 +194,21 @@ When you use Settings → Delete Account, the App removes all local SwiftData re
 
 As a data subject under GDPR, you have the right to:
 
-* **Access** — request a copy of personal data we hold about you.
-* **Portability** — receive your data in a machine-readable format (use Settings → Export Data in the App).
-* **Rectification** — correct inaccurate personal data.
-* **Erasure** — request deletion of your personal data (use Settings → Delete Account in the App, or contact us).
-* **Restriction** — ask us to restrict processing of your data in certain circumstances.
-* **Object** — object to processing based on legitimate interests.
-* **Withdraw consent** — withdraw consent for optional features (Apple Health, iCloud sync) at any time in iOS Settings or the App's Me tab.
+- **Access** — request a copy of personal data we hold about you.
+- **Portability** — receive your data in a machine-readable format (use Settings → Export Data in the App).
+- **Rectification** — correct inaccurate personal data.
+- **Erasure** — request deletion of your personal data (use Settings → Delete Account in the App, or contact us).
+- **Restriction** — ask us to restrict processing of your data in certain circumstances.
+- **Object** — object to processing based on legitimate interests.
+- **Withdraw consent** — withdraw consent for optional features (Apple Health, iCloud sync) at any time in iOS Settings or the App's Me tab.
 
-To exercise any right, contact us at **[dosion@bioaionics.com](mailto:dosion@bioaionics.com)**. We will respond within 30 days.
+To exercise any right, contact us at **dosion@bioaionics.com**. We will respond within 30 days.
 
-You also have the right to **lodge a complaint** with the Hellenic Data Protection Authority (HDPA):
+You also have the right to **lodge a complaint** with the competent supervisory authority. As our establishment is in Germany, the lead supervisory authority is:
 
-> **Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα (ΑΠΔΠΧ)**
-> Kifissias 1-3, 115 23 Athens, Greece
-> [www.dpa.gr](http://www.dpa.gr) | [contact@dpa.gr](mailto:contact@dpa.gr) | +30 210 6475 600
+> **Berliner Beauftragte für Datenschutz und Informationsfreiheit**
+> Friedrichstr. 219, 10969 Berlin
+> [www.datenschutz-berlin.de](https://www.datenschutz-berlin.de)
 
 ---
 
@@ -223,11 +216,11 @@ You also have the right to **lodge a complaint** with the Hellenic Data Protecti
 
 We implement the following measures:
 
-* Data is stored in the iOS-encrypted on-device SwiftData store, protected by the device passcode and Secure Enclave where applicable.
-* iCloud sync uses Apple's CloudKit encryption at rest and in transit.
-* Communication between the App and our Food API uses HTTPS.
-* API keys and server-side credentials are never embedded in the App binary.
-* We maintain no central database of user data.
+- Data is stored in the iOS-encrypted on-device SwiftData store, protected by the device passcode and Secure Enclave where applicable.
+- iCloud sync uses Apple's CloudKit encryption at rest and in transit.
+- Communication between the App and our Food API uses HTTPS.
+- API keys and server-side credentials are never embedded in the App binary.
+- We maintain no central database of user data.
 
 No method of transmission or storage is 100% secure. We will notify affected users and relevant supervisory authorities in the event of a data breach as required by GDPR Art. 33–34.
 
@@ -247,5 +240,5 @@ We may update this Policy from time to time. When we do, we will update the "Las
 
 ## 13. Contact
 
-**Kirill Sukhomlin**  
-Email: **[dosion@bioaionics.com](mailto:dosion@bioaionics.com)**
+**Artem Odintsov**
+Email: **dosion@bioaionics.com**
