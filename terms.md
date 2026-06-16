@@ -1,11 +1,11 @@
 # Terms of Service
 
-**App:** Dosion — Supplement Tracker
-**Developer:** Artem Odintsov
-**Contact:** dosion@bioaionics.com
-**Effective date:** 30 April 2026
-**Last updated:** 16 June 2026
-**Version:** 1.1
+**App:** Dosion — Supplement Tracker  
+**Developer:** Artem Odintsov  
+**Contact:** dosion@bioaionics.com  
+**Effective date:** 30 April 2026  
+**Last updated:** 16 June 2026  
+**Version:** 1.1  
 
 ---
 
