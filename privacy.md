@@ -4,8 +4,8 @@
 **Developer / Data Controller:** Artem Odintsov  
 **Contact:** dosion@bioaionics.com  
 **Effective date:** 30 April 2026  
-**Last updated:** 16 June 2026  
-**Version:** 1.1  
+**Last updated:** 5 July, 2026  
+**Version:** 1.2  
 
 ---
 
@@ -60,7 +60,7 @@ If you enable HealthKit write-back (Dosion Pro), the App may **write** dietary n
 
 - HealthKit data is processed entirely on-device.
 - HealthKit-derived personal characteristics (such as biological sex and the last HealthKit sync timestamp) are stored locally on your device only. They are **not** transmitted to our servers, **not** shared with any third party, and **not** synced to iCloud.
-- Raw HealthKit samples are not retained beyond the daily snapshot needed for Insights analysis.
+- Raw HealthKit samples are not retained beyond the daily snapshot needed for Patterns analysis.
 - You can revoke iOS-level HealthKit permission at any time in **iOS Settings → Privacy → Health → Dosion**. Inside the App (**Me → Apple Health**), you can also disconnect HealthKit at the App level, which stops the App from reading or writing HealthKit data; the iOS-level permission grant must be revoked separately in iOS Settings if you want to remove it entirely.
 
 ### 3.3 Device permissions
