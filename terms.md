@@ -4,8 +4,8 @@
 **Developer:** Artem Odintsov  
 **Contact:** dosion@bioaionics.com  
 **Effective date:** 30 April 2026  
-**Last updated:** 16 June 2026  
-**Version:** 1.1  
+**Last updated:** 05 July 2026  
+**Version:** 1.2  
 
 ---
 
@@ -29,12 +29,12 @@ Dosion is a local-first supplement tracking application for iOS that enables you
 - Log daily intake and track schedules and cycles.
 - Record wellbeing check-ins (mood, energy, sleep, and related metrics).
 - Search nutrition and food data via our backend integration and supporting third-party fallbacks (see Privacy Policy section 7).
-- View deterministic local insights based on your intake and check-in history.
+- View deterministic local patterns based on your intake and check-in history.
 - Optionally connect Apple Health for read and write integration.
 - Optionally sync data via iCloud (Apple-authenticated accounts only).
 - Access an optional Dosion Pro subscription for expanded capabilities.
 
-Core tracking functionality (stack, intake logging, schedules, check-ins, insights from local data) works **offline**. Some features — barcode and food lookups, and iCloud sync — require a network connection. Your data is stored on your device.
+Core tracking functionality (stack, intake logging, schedules, check-ins, patterns from local data) works **offline**. Some features — barcode and food lookups, and iCloud sync — require a network connection. Your data is stored on your device.
 
 ---
 
@@ -42,7 +42,7 @@ Core tracking functionality (stack, intake logging, schedules, check-ins, insigh
 
 **Dosion is not a medical device and does not provide medical advice.**
 
-The App and all information it provides — including supplement data, nutrient information, intake tracking, insights, and recommendations — are intended for **general informational and personal tracking purposes only**. Nothing in the App constitutes:
+The App and all information it provides — including supplement data, nutrient information, intake tracking, patterns, and recommendations — are intended for **general informational and personal tracking purposes only**. Nothing in the App constitutes:
 
 - Medical advice, diagnosis, or treatment.
 - A recommendation to start, stop, or change any supplement, medication, or health regimen.
@@ -157,7 +157,7 @@ Dosion includes links to [iHerb](https://www.iherb.com). These links open in an 
 HealthKit integration is optional and subject to your explicit permission:
 
 - The App reads and writes data as described in the Privacy Policy, section 3.2.
-- Read access is used to enhance local insights and personalise schedules.
+- Read access is used to enhance local patterns and personalise schedules.
 - Write access (Dosion Pro) records dietary intake to your Health app.
 - All HealthKit data is processed on-device. No HealthKit data is sent to our servers or third parties.
 - You can disconnect HealthKit at the App level at any time in **Me → Apple Health**. To revoke iOS-level HealthKit permission, use **iOS Settings → Privacy → Health → Dosion**.
@@ -193,7 +193,7 @@ We do not warrant that:
 
 - The App will be uninterrupted, error-free, or free from harmful components.
 - The nutritional and supplement data in the App is complete, accurate, or current.
-- Results obtained from the App's insights or recommendations will be accurate or suitable for your personal circumstances.
+- Results obtained from the App's patterns or recommendations will be accurate or suitable for your personal circumstances.
 - The App will be compatible with all devices or future iOS versions.
 
 Nothing in this section excludes warranties that cannot be excluded under mandatory EU or German consumer protection law.
