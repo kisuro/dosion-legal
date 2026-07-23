@@ -5,7 +5,7 @@
 **Contact:** dosion@bioaionics.com  
 **Effective date:** 30 April 2026  
 **Last updated:** 23 July 2026  
-**Version:** 1.3  
+**Version:** 1.4  
 
 ---
 

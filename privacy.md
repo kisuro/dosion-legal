@@ -5,7 +5,7 @@
 **Contact:** dosion@bioaionics.com  
 **Effective date:** 30 April 2026  
 **Last updated:** 23 July 2026  
-**Version:** 1.3  
+**Version:** 1.4  
 
 ---
 
@@ -118,7 +118,7 @@ Profile avatars in Dosion work as follows:
 |---------|----------------------|--------------------------|
 | Provide core App functionality | Stack, intake, schedule, profile data | Art. 6(1)(b) — performance of a contract |
 | Optional Apple Health integration | HealthKit reads and writes (also Art. 9(2)(a)) | Art. 6(1)(a) — consent |
-| Optional iCloud sync | Stack, logs, profile preferences, profile photo | Art. 6(1)(a) — consent |
+| Optional iCloud sync | Stack, logs, wellbeing check-ins, profile preferences, profile photo | Art. 6(1)(a) — consent |
 | Local reminders | Schedule data | Art. 6(1)(b) |
 | Subscription and entitlement management | Apple-issued StoreKit receipts and transaction IDs | Art. 6(1)(b) |
 | Respond to support requests | Diagnostic metadata, message content | Art. 6(1)(f) — legitimate interest in supporting users |
