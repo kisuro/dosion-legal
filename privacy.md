@@ -4,8 +4,8 @@
 **Developer / Data Controller:** Artem Odintsov  
 **Contact:** dosion@bioaionics.com  
 **Effective date:** 30 April 2026  
-**Last updated:** 5 July, 2026  
-**Version:** 1.2  
+**Last updated:** 23 July 2026  
+**Version:** 1.3  
 
 ---
 
@@ -135,7 +135,6 @@ Dosion is **local-first**. Your data is stored in a SwiftData database on your d
 **What stays on-device only (always):**
 
 - HealthKit-derived characteristics (such as biological sex and last HealthKit sync timestamp)
-- Wellbeing check-ins
 - Local notifications schedule
 - Entitlement cache and one-time install state flags
 - App Group container values shared with the widget extension
@@ -145,6 +144,7 @@ Dosion is **local-first**. Your data is stored in a SwiftData database on your d
 
 - Supplements
 - Intake logs
+- Wellbeing check-ins
 - Profile preferences (goal, meal times, currency, appearance)
 - Profile photo (replicated as a CloudKit asset)
 

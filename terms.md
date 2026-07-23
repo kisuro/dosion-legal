@@ -4,8 +4,8 @@
 **Developer:** Artem Odintsov  
 **Contact:** dosion@bioaionics.com  
 **Effective date:** 30 April 2026  
-**Last updated:** 05 July 2026  
-**Version:** 1.2  
+**Last updated:** 23 July 2026  
+**Version:** 1.3  
 
 ---
 
@@ -116,8 +116,8 @@ Dosion offers an optional paid subscription — **Dosion Pro** — that unlocks 
 
 | Plan | Product ID | Price |
 |------|------------|-------|
-| Monthly | `com.dosion.app.pro.monthly` | USD 4.99 / month |
-| Annual | `com.dosion.app.pro.annual` | USD 39.99 / year |
+| Monthly | `com.bioaionics.dosion.pro.monthly` | USD 4.99 / month |
+| Annual | `com.bioaionics.dosion.pro.annual` | USD 39.99 / year |
 
 The Annual plan currently includes a free introductory trial for new subscribers (presently configured at 7 days; the actual duration shown to you in the App is loaded from the App Store at purchase time) and is **family-shareable** through Apple Family Sharing. Pricing in your local currency is determined by Apple and displayed in the App at the time of purchase.
 
